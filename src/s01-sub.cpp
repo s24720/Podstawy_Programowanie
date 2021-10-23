@@ -9,7 +9,7 @@ int main(){
     std::cout << "Podaj liczbę b" << std::endl;
     std::cin >> b;
 
-    std::cout << "Wynik działania to: "<< a - b << std::endl;
+    std::cout << "Wynik odejmowania to: "<< a - b << std::endl;
 
     return 0;
 }
